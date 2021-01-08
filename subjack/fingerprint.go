@@ -27,10 +27,8 @@ func VerifyCNAME(subdomain string, config []Fingerprints) (match bool) {
 VERIFY:
 	for n := range config {
 		
-		fmt.Printf("service: %v\n", config[n].Enable)
-
 		if !config[n].Enable {
-			fmt.Printf("[%v] => This provider was disabled.\n", config[n].Service)
+			//fmt.Printf("[%v] => This provider was disabled.\n", config[n].Service)
 			continue
 		}
 
@@ -98,10 +96,9 @@ func Identify(subdomain string, forceSSL, manual bool, timeout int, fingerprints
 
 IDENTIFY:
 	for f := range fingerprints {
-		fmt.Printf("service: %v\n", fingerprints[f].Enable)
-
+		
 		if !fingerprints[f].Enable {
-			fmt.Printf("[%v] => This provider was disabled.\n", fingerprints[f].Service)
+			//fmt.Printf("[%v] => This provider was disabled.\n", fingerprints[f].Service)
 			continue
 		}
 
