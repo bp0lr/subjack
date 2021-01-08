@@ -7,7 +7,8 @@
 		"fingerprint": [
 			"Fastly error: unknown domain"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "github",
@@ -17,7 +18,8 @@
 		"fingerprint": [
 			"There isn't a GitHub Pages site here."
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "heroku",
@@ -27,7 +29,8 @@
 		"fingerprint": [
 			"herokucdn.com/error-pages/no-such-app.html"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "pantheon",
@@ -37,7 +40,8 @@
 		"fingerprint": [
 			"The gods are wise, but do not know of the site which you seek."
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "tumblr",
@@ -47,7 +51,8 @@
 		"fingerprint": [
 			"Whatever you were looking for doesn't currently exist at this address."
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "wordpress",
@@ -57,7 +62,8 @@
 		"fingerprint": [
 			"Do you want to register"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "teamwork",
@@ -67,7 +73,8 @@
 		"fingerprint": [
 			"Oops - We didn't find your site."
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "helpjuice",
@@ -77,7 +84,8 @@
 		"fingerprint": [
 			"We could not find what you're looking for."
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "helpscout",
@@ -87,7 +95,8 @@
 		"fingerprint": [
 			"No settings were found for this company:"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "s3 bucket",
@@ -97,7 +106,8 @@
 		"fingerprint": [
 			"The specified bucket does not exist"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "ghost",
@@ -107,7 +117,8 @@
 		"fingerprint": [
 			"The thing you were looking for is no longer here, or never was"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "shopify",
@@ -117,7 +128,8 @@
 		"fingerprint": [
 			"Sorry, this shop is currently unavailable."
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "uservoice",
@@ -127,7 +139,8 @@
 		"fingerprint": [
 			"This UserVoice subdomain is currently available!"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "surge",
@@ -137,7 +150,8 @@
 		"fingerprint": [
 			"project not found"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "bitbucket",
@@ -147,7 +161,8 @@
 		"fingerprint": [
 			"Repository not found"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "intercom",
@@ -158,7 +173,8 @@
 			"This page is reserved for artistic dogs.",
 			"<h1 class=\"headline\"Uh oh. That page doesn't exist.</h1>"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "webflow",
@@ -169,7 +185,8 @@
 		"fingerprint": [
 			"<p class=\"description\">The page you are looking for doesn't exist or has been moved.</p>"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "wishpond",
@@ -179,7 +196,8 @@
 		"fingerprint": [
 			"https://www.wishpond.com/404?campaign=true"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "aftership",
@@ -189,7 +207,8 @@
 		"fingerprint": [
 			"Oops.</h2><p class=\"text-muted text-tight\">The page you're looking for doesn't exist."
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "aha",
@@ -199,7 +218,8 @@
 		"fingerprint": [
 			"There is no portal here ... sending you back to Aha!"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "tictail",
@@ -210,7 +230,8 @@
 			"to target URL: <a href=\"https://tictail.com",
 			"Start selling on Tictail."
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "brightcove",
@@ -222,7 +243,8 @@
 		"fingerprint": [
 			"<p class=\"bc-gallery-error-code\">Error Code: 404</p>"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "bigcartel",
@@ -232,7 +254,8 @@
 		"fingerprint": [
 			"<h1>Oops! We could&#8217;t find that page.</h1>"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "campaignmonitor",
@@ -242,7 +265,8 @@
 		"fingerprint": [
 			"Double check the URL or <a href=\"mailto:help@createsend.com"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "acquia",
@@ -252,7 +276,8 @@
 		"fingerprint": [
 			"The site you are looking for could not be found."
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "simplebooklet",
@@ -262,7 +287,8 @@
 		"fingerprint": [
 			"We can't find this <a href=\"https://simplebooklet.com"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "getresponse",
@@ -272,7 +298,8 @@
 		"fingerprint": [
 			"With GetResponse Landing Pages, lead generation has never been easier"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "vend",
@@ -282,7 +309,8 @@
 		"fingerprint": [
 			"Looks like you've traveled too far into cyberspace"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "jetbrains",
@@ -292,7 +320,8 @@
 		"fingerprint": [
 			"is not a registered InCloud YouTrack."
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "azure",
@@ -307,7 +336,8 @@
 			".azureedge.net"
 		],
 		"fingerprint": [],
-		"nxdomain": true
+		"nxdomain": true,
+		"enable": true
 	},
 	{
 		"service": "zendesk",
@@ -317,7 +347,8 @@
 		"fingerprint": [
 			"Help Center Closed"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "readme",
@@ -327,7 +358,8 @@
 		"fingerprint": [
 			"Project doesnt exist... yet!"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	},
 	{
 		"service": "apigee",
@@ -335,7 +367,8 @@
 			"-portal.apigee.net"
 		],
 		"fingerprint": [],
-		"nxdomain": true
+		"nxdomain": true,
+		"enable": true
 	},
 	{
 		"service": "smugmug",
@@ -343,7 +376,8 @@
 			"domains.smugmug.com"
 		],
 		"fingerprint": [],
-		"nxdomain": true
+		"nxdomain": true,
+		"enable": true
 	},
 	{
 		"service": "worksites.net",
@@ -353,6 +387,7 @@
 		"fingerprint": [
 			"Hello! Sorry, but the website you&rsquo;re looking for doesn&rsquo;t exist.</p>\n<a href=\"https://worksites.net/\">Learn more about Worksites.net"
 		],
-		"nxdomain": false
+		"nxdomain": false,
+		"enable": true
 	}
 ]
