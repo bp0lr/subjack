@@ -8,7 +8,7 @@
 			"Fastly error: unknown domain"
 		],
 		"nxdomain": false,
-		"enable": true
+		"enable": false
 	},
 	{
 		"service": "github",
